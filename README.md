@@ -34,13 +34,6 @@
 
 </details>
 
-## 📁 Repository Contents
-
-This repository contains the primary materials for our research accepted at UKC 2025:
-
-- [`UKC2025_SeungwonSeon.pdf`](./UKC2025_SeungwonSeon.pdf): The full research paper detailing the implementation and analysis.
-- [`Poster - Poster Design (48 x 48 in).jpg`](./Poster%20-%20Poster%20Design%20(48%20x%2048%20in).jpg): The poster presented at the conference.
-
 ## 📚 Citation
 
 <details>
