@@ -1,38 +1,55 @@
 # An Architectural Analysis of a Cloud-based AI-Infused Full-Stack Mobile App Powered by RAG
 
+<div align="center">
 
-## Abstract
-This research presents and analyzes a deployment architecture for a cloud-based, Generative AI-powered mobile application using Retrieval-Augmented Generation (RAG). We propose a practical blueprint that integrates a local LLM (Gemma 2) with a full-stack framework (React Native, Express.js) to enhance team collaboration and provide a clear architectural understanding. The goal is to demonstrate an efficient, secure, and scalable model for developing modern AI-infused applications.
+![Conference](https://img.shields.io/badge/Conference-UKC%202025-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+</div>
 
+**Authors:** Nate Seon, Sam Chung, Ph.D.
 
+---
 
-## System Architecture
-The core of this research is a visual representation of the app's deployment architecture using a UML diagram. The diagram illustrates the interaction between seven key nodes, including the mobile frontend, backend API, database, vector store, and the LLM.
+## 📝 Abstract
 
-Technology Stack
-Frontend: React Native
+> This research presents and analyzes a deployment architecture for a cloud-based, Generative AI-powered mobile application using Retrieval-Augmented Generation (RAG). We propose a practical blueprint that integrates a local LLM (Gemma 2) with a full-stack framework (React Native, Express.js) to enhance team collaboration and provide a clear architectural understanding. The goal is to demonstrate an efficient, secure, and scalable model for developing modern AI-infused applications.
 
-Backend: Express.js
+## 🏛️ System Architecture
 
-Database: MongoDB Atlas
+<div align="center">
+  <img src="Poster - Poster Design (48 x 48 in).jpg" width="700" alt="System Architecture Diagram">
+</div>
 
-LLM: Gemma 2 (via Ollama)
+<details>
+<summary>💻 Click to see the full Technology Stack</summary>
 
-Vector DB: ChromaDB
+- **Frontend**: React Native
+- **Backend**: Express.js
+- **Database**: MongoDB Atlas
+- **LLM**: Gemma 2 (via Ollama)
+- **Vector DB**: ChromaDB
+- **MLOps**: MLflow
+- **Model Server**: FastAPI
 
-MLOps: MLflow
+</details>
 
-Model Server: FastAPI
+## 📁 Repository Contents
 
-Repository Contents
 This repository contains the primary materials for our research accepted at UKC 2025:
 
-UKC2025_SeungwonSeon.pdf: The full research paper detailing the implementation and analysis.
+- [`UKC2025_SeungwonSeon.pdf`](./UKC2025_SeungwonSeon.pdf): The full research paper detailing the implementation and analysis.
+- [`Poster - Poster Design (48 x 48 in).jpg`](./Poster%20-%20Poster%20Design%20(48%20x%2048%20in).jpg): The poster presented at the conference.
 
-Poster - Poster Design (48 x 48 in).jpg: The poster presented at the conference.
+## 📚 Citation
 
-## Citation
-If you find this work useful for your research, please consider citing our paper:
+<details>
+<summary>Show BibTeX Citation</summary>
 
-Seon, N., & Chung, S. (2025). An Architectural Analysis of a Cloud-based AI-Infused Full-Stack Mobile App Powered by RAG. U.S.-Korea Conference on Science, Technology, and Entrepreneurship (UKC 2025).
+```bibtex
+@inproceedings{seon2025architectural,
+  title={An Architectural Analysis of a Cloud-based AI-Infused Full-Stack Mobile App Powered by RAG},
+  author={Seon, Nate and Chung, Sam},
+  booktitle={U.S.-Korea Conference on Science, Technology, and Entrepreneurship (UKC 2025)},
+  year={2025}
+}
