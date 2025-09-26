@@ -18,7 +18,7 @@
 ## 🏛️ System Architecture
 
 <div align="center">
-  <img src="[Poster - Poster Design (48 x 48 in).jpg](https://github.com/nateseon/An-Architectural-Analysis-of-an-AI-Infused-Mobile-Application/blob/main/Poster%20-%20Poster%20Design%20(24%20x%2036%20in).pdf)" width="700" alt="Poster">
+  <img src="poster.png" width="700" alt="System Architecture Poster">
 </div>
 
 <details>
