@@ -18,7 +18,7 @@
 ## 🏛️ System Architecture
 
 <div align="center">
-  <img src="Poster - Poster Design (48 x 48 in).jpg" width="700" alt="System Architecture Diagram">
+  <img src="Poster - Poster Design (48 x 48 in).jpg" width="700" alt="Poster">
 </div>
 
 <details>
